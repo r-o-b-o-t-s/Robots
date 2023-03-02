@@ -5,114 +5,95 @@ layout: default
 ---
 
 # About Me
- Farts and poops
-  Yes sir
- Farts and poops.
-  yes.
+Name
+BSc BSc Nico Kevin Christopher Mexis
+Born
+1999
+Birthplace
+Bad Reichenhall
+Domicile
+Passau
+Email
+info (at) femtopedia (dot) de
+Current status
+Research assistant and student (MSc Computer science)
+Do not send me emails about job opportunities or issues on some of my GitHub projects. For the latter, use the appropriate issue form!
 
 ## Online Presence
+Google Scholar
+Publons
+ORCID
+ResearchGate
+Dev.to
+GitHub
 
-Put all of your Markdown in a file with a simple name such as `index.md` or
-`home.md`.
+## Awards
+SIGCOMM 2021 Student Research Competition (SRC): Third place winner in the Undergraduate Category
 
-Add the following lines to the very top of the Markdown file, replacing
-`Make a Website with Only Markdown` with the title you want to use for
-your website:
+## Theses
+Bachelor’s Thesis: Nico Mexis. July 2021. Fuzzy Extractors unter Einsatz von Low-Density Parity-Check Codes. Unpublished undergraduate thesis. Universität Passau.
 
-``` ruby
-code here
-```
+## Research and Publications
+### First author
+Mexis, N., Anagnostopoulos, N. A., Arul, T., Frank, F. & Katzenbeisser, S., (2021). Fuzzy Extractors using Low-Density Parity-Check Codes. In: Gazdag, S.-L., Tiepelt, M., Loebenberger, D. & Nüsken, M. (Hrsg.), crypto day matters 33. Bonn: Gesellschaft für Informatik e.V. / FG KRYPTO. DOI:10.18420/cdm-2021-33-41
+Nico Mexis, Nikolaos Athanasios Anagnostopoulos, Shuai Chen, Jan Bambach, Tolga Arul, and Stefan Katzenbeisser. 2021. A design for a secure network of networks using a hardware and software co-engineering architecture. Proceedings of the SIGCOMM ‘21 Poster and Demo Sessions (SIGCOMM ‘21). Association for Computing Machinery, New York, NY, USA, 65–67. DOI:10.1145/3472716.3472849
+Nico Mexis, Nikolaos Athanasios Anagnostopoulos, Shuai Chen, Jan Bambach, Tolga Arul, and Stefan Katzenbeisser. 2021. A Lightweight Architecture for Hardware-Based Security in the Emerging Era of Systems of Systems. J. Emerg. Technol. Comput. Syst. 17, 3, Article 43 (June 2021), 25 pages. DOI:10.1145/3458824
 
-These special lines are known as
-[Front Matter](https://jekyllrb.com/docs/front-matter/) and they tell GitHub
-the title and location of the page on your website.
+### Co-author
+Nikolaos Athanasios Anagnostopoulos, Yufan Fan, Muhammad Umair Saleem, Nico Mexis, Emiliia Gelóczi, Felix Klement, Florian Frank, André Schaller, Tolga Arul, and Stefan Katzenbeisser, “Testing Physical Unclonable Functions Implemented on Commercial Off-the-Shelf NAND Flash Memories Using Programming Disturbances,” 2022 IEEE 12th International Conference on Consumer Electronics (ICCE-Berlin), Berlin, Germany, 2022, pp. 1-9. DOI:10.1109/ICCE-Berlin56473.2022.10021310
+E. Nazarenko, N. A. Anagnostopoulos, S. G. Stavrinides, N. Mexis, F. Frank, T. Arul and S. Katzenbeisser, “Real-World Chaos-Based Cryptography Using Synchronised Chua Chaotic Circuits,” Institute of Electrical and Electronics Engineers (IEEE), 2022, DOI:10.36227/techrxiv.21030466.v1
+R. Suragani, E. Nazarenko, N. A. Anagnostopoulos, N. Mexis and E. B. Kavun, “Identification and Classification of Corrupted PUF Responses via Machine Learning,” 2022 IEEE International Symposium on Hardware Oriented Security and Trust (HOST), 2022, pp. 137-140, DOI:10.1109/HOST54066.2022.9839919
+Gelóczi, E., Mexis, N., Anagnostopoulos, N. A., Frank, F., Arul, T., Stavrinides, S. G. & Katzenbeisser, S., (2022). Secure Communication via Chaotic Cryptography. In: Loebenberger, D. & Nüsken, M. (Hrsg.), crypto day matters 34. Bonn: Gesellschaft für Informatik e.V. / FG KRYPTO. DOI:10.18420/cdm-2022-34-01
+Nikolaos Athanasios Anagnostopoulos, Yufan Fan, Muhammad Umair Saleem, Nico Mexis, Florian Frank, Tolga Arul, and Stefan Katzenbeisser. 2022. On the Sustainability of Lightweight Cryptography Based on PUFs Implemented on NAND Flash Memories Using Programming Disturbances. arXiv preprint arXiv:2204.02498 (2022). DOI:10.48550/ARXIV.2204.02498
 
-Make sure to save your changes. 😉
+### OEIS Entries
+A355667: Least number phi(k) such that n * phi(k) < k, where phi is Euler’s totient function
 
-## Step 2. Create a GitHub repository
-
-If you don't already have one, create a free GitHub account at
-[github.com](https://github.com).
-
-Once you're signed in, click the `➕` icon in the top navigation bar to
-create a new repository.
-
-Name your repository and select `Public` access so your website will be
-viewable by anyone.
-
-Press the `Create Repository` button.
-
-## Step 3. Upload your Markdown file
-
-Click the `Uploading an existing file` link in the _Quick setup_ section of
-your new repository.
-
-Drag your Markdown file onto the new page or click the `Choose your files`
-link to select the file from your file system.
-
-Press the `Commit changes` button.
-
-## Step 4. Turn on GitHub Pages
-
-Navigate to the `Settings` tab of your repository on GitHub, then scroll
-down to the `GitHub Pages` section of the page.
-
-Select `master branch` as the `Source` option. Then click the `Choose a theme`
-button in the section.
-
-Use the carousel to choose and preview a theme for your website, then click the
-`Select theme` button to apply that theme to your repository.
-
-## Step 5. Behold your website!
-
-If all went well, your website should be live!
-
-To view it, click the link to your website in the `GitHub Pages` section on
-the `Settings` tab of your repository on GitHub.
-
-The URL is also structured in a specific way:
-
-```
-https://<user>.github.io/<repository>/
-```
-
-If you replace `<user>` and `<repository>` with your GitHub login and
-repository name, you can also type the address directly into your
-browser's address bar.
-
-## Step 6. Use your own domain name
-
-If you have your own domain name, you can also tell GitHub to host your
-Markdown website at that domain.
-
-### On GitHub
-
-Go to the `GitHub Pages` section on the `Settings` tab of your repository on
-GitHub, type your domain name (e.g. `www.markdownwebsite.com`) in the
-`Custom domain` text box, then click `Save`.
-
-### On your domain registrar
-
-Login to your domain registrar's website and configure your domain name
-settings (DNS).
-
-Create a `CNAME` record that points your domain name (the exact same text
-typed in GitHub's `Custom domain` field) to `<user>.github.io`
-(replace `<user>` with your GitHub login).
-
-Save your DNS settings.
-
-After the DNS change propagates (this can take seconds, minutes, or hours),
-you'll be able to visit your domain and see your beautifully-rendered
-Markdown website! 😎
-
-## Where to learn more
-
-This feature of GitHub is known as GitHub Pages and there's much more to it
-than demonstrated here.
-
-If you want to take a deeper dive into GitHub Pages, visit
-[pages.github.com](https://pages.github.com).
-
-For more information about Jekyll, the underlying technology that GitHub pages
-uses, visit [jekyllrb.com](https://jekyllrb.com/).
+### Projects for Procrastination
+LDPC:
+Working Time: ~50 hours (incl. Research)
+Done: 2020-2021
+Java Library for my Bachelor Thesis. Provides a library for handling binary LDPC Codes in Java.
+Fuzzy Extractors:
+Working Time: ~20 hours (incl. Research)
+Done: 2021
+Java Library for my Bachelor Thesis. Provides a library for Fuzzy Extractors in Java.
+Forked dex2jar:
+Working Time: ~20 hours
+Done: In progress
+Fork of dex2jar providing many new possibilities and bug fixes.
+Bytecode Viewer:
+Working Time: ~30 hours
+Done: In progress
+Moderator and regular contributor in the popular reverese engineering suite
+YAMBZ (Yet another Mandelbrot Zoom):
+Working Time: ~25 hours
+Computing Time: ~10 hours
+Done: January 2020
+The original image’s file size is around 797MB in PNG-format.
+Some Nebulabrot attempts II (Source Code):
+Working Time: ~2 hours
+Computing Time: ~1 hour
+Done: July 2021
+Some Nebulabrot attempts:
+Working Time: ~3 hours
+Computing Time: ~10 minutes
+Done: February 2020
+Reforged (Download):
+Working Time: too much
+Done: January 2016 - September 2017
+My most famous Minecraft mod (one out of a few).
+Game of Life:
+Working Time: ~1 hour
+Done: Summer 2019 (Vacation project)
+Just another simple Game of Life, written in Processing.
+Sorting Visualizer:
+Working Time: ~5 hours
+Done: August 2019
+Just another sorting visualizer with sound, written in Processing.
+UV Checker Map Generator:
+Working Time: ~20 minutes
+Done: July 2021
+Generates a checkerboard pattern for texture atlas modelling, written in Processing.
+Some other leisure projects
+Many more to come, hopefully…
