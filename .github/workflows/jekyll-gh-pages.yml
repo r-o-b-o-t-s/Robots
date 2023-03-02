@@ -25,6 +25,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+    theme: hacker
       - name: Checkout
         uses: actions/checkout@v3
       - name: Setup Pages
