@@ -4,15 +4,13 @@ permalink: /
 layout: default
 ---
 
-# Make a Website with Only Markdown
+# About Me
+ Farts and poops
+  Yes sir
+ Farts and poops.
+  yes.
 
-Learn how to use Markdown on GitHub to make a nice-looking website without
-the use of a special editor or command line tools.
-
-If you're new to Markdown, take a look at
-[GitHub's Markdown Guide](https://guides.github.com/features/mastering-markdown/).
-
-## Step 1. Edit your Markdown file
+## Online Presence
 
 Put all of your Markdown in a file with a simple name such as `index.md` or
 `home.md`.
@@ -22,11 +20,7 @@ Add the following lines to the very top of the Markdown file, replacing
 your website:
 
 ``` ruby
----
-title: "Make a Website with Only Markdown"
-permalink: /
-layout: default
----
+code here
 ```
 
 These special lines are known as
